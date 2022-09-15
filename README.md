@@ -62,4 +62,4 @@ I am a Machine learning and AI enthusiast <img src="https://media.giphy.com/medi
 
 https://github-readme-streak-stats.herokuapp.com/?user=anup-66
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anup-66&theme=dark&background=000000)](https://git.io/streak-stats)
