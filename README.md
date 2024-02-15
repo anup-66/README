@@ -32,7 +32,7 @@ I am a Machine learning and AI enthusiast <img src="https://media.giphy.com/medi
 - ⚡: In my free time, I solve problems on codeChef and learn from geeksforgeeksand enjoy badminton .
 - 🎵: Music is all time favourite.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-anup_66-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-anup_66-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anup66/)
 
 ---
 
